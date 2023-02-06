@@ -1,0 +1,8 @@
+INSERT INTO bears VALUES (1,"Mr. Chocolate", 12, "M", "brown")
+INSERT INTO bears VALUES (2,"Rowdy", 13 , "F" , "dark brown")
+INSERT INTO bears VALUES (3,"Tabitha", 14 , "M", "grey")
+INSERT INTO bears VALUES (4,"Sergeant Brown, "M", "yellow")
+INSERT INTO bears VALUES (5,"Melissa, "F", "yellow")
+INSERT INTO bears VALUES (6,"Grinch", "M", "yellow")
+INSERT INTO bears VALUES (7,"Wendy, "F", "yellow")
+INSERT INTO bears VALUES (8,"NULL", "F", "yellow")
